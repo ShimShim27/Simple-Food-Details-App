@@ -1,4 +1,4 @@
-# 🍆🍏Simple-Food-Details-App
+# Simple-Food-Details-App 🍆🍏
 This is a simple app that displays simple food data. The foods here are only fruits and vegetables.
 
 ## ⚙️Setup

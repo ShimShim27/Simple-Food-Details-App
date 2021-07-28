@@ -7,7 +7,7 @@ This is a simple app that displays simple food data. The foods here are only fru
 * Build and run the project<br/><br/>
 
 ## ♻️Changing  Data
-* To add  or change the fruits and vegetable data ,  open FoodDataList.kt
+* To add  or change the fruits and vegetable data ,  open the class ***FoodDataList.kt***
 * You can modify the all  the code depending on your needs.
  Please keep in mind that I don't own the images and description of the foods in the project.
  I've credited them in the project code and this README's Credit section.<br/><br/>
